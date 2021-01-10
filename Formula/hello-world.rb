@@ -3,7 +3,7 @@ class HelloWorld < Formula
   homepage "https://github.com/ladislas/hello-world"
 
   url "https://github.com/ladislas/hello-world/archive/9.0.0.tar.gz"
-  sha256 "0caa1306c4a6c629aed2b66080375c24fc3b820fd803f9e327ae140a30da336d"
+  sha256 "5b4bb2c4d96e2d9adb38b4f92ab20a1806a6411f902c712ea9cf5c1a5a7ab65b"
 
   def install
     system "make"
